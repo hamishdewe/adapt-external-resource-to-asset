@@ -1,0 +1,10 @@
+{
+  "__note__": "Use the key to specify the text to replace and the value to specify its replacement. The warn list generates warnings for any element that includes that string",
+  "replace": {
+    "behaviour": "behavior",
+    "travelled": "traveled"
+  },
+  "warn": [
+    "framework"
+  ]
+}
